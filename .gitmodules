@@ -1,0 +1,3 @@
+[submodule "project_file"]
+	path = project_file
+	url = https://github.com/SURESHUDAVALAPATI/ecommerce-django.git
